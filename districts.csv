@@ -1,0 +1,19 @@
+district_name,income_tier,projected_evs,projected_plugs,projected_regular_customers
+Wilanów,High,3100,94,620
+Śródmieście,High,2700,82,540
+Żoliborz,High,1800,55,360
+Mokotów,Mid-Range,3500,106,700
+Wola,Mid-Range,3300,100,660
+Ursynów,Mid-Range,2900,88,580
+Bielany,Mid-Range,2300,70,460
+Praga Południe,Low-Mid,2500,76,500
+Ochota,Mid-Range,1600,49,320
+Włochy,Mid-Range,1200,36,240
+Targówek,Low-Mid,1400,42,280
+Bemowo,Low-Mid,1800,55,360
+Wawer,Low-Mid,1100,33,220
+Praga Północ,Low-Mid,1000,30,200
+Białołęka,Low-Mid,2400,73,480
+Ursus,Low-Mid,1100,33,220
+Rembertów,Low-Mid,600,18,120
+Wesoła,Low-Mid,700,21,140
